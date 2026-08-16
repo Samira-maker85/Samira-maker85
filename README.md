@@ -65,4 +65,4 @@ Tecnologia com impacto social
 
 <br>
 
-<p align="center"><img src="./images/768a84a3bb09bf71a2668dbe04523496.gif" width="720"></p>
+<p align="center"><img src="c837ef0f64c4cfba3ded1a5457cf4002.gif" width="200" height="200">></p>
